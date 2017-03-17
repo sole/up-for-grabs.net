@@ -9,6 +9,6 @@ tags:
 - javascript
 - debugger
 - mozilla
-upforgrabs:
-  name: up for grabs
-  link: https://github.com/devtools-html/debugger.html/labels/up%20for%20grabs
+available:
+  name: available
+  link: https://github.com/devtools-html/debugger.html/labels/available
